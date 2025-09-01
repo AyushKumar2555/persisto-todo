@@ -1,12 +1,78 @@
-# React + Vite
+# 📌 Persisto Todo  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **Todo App** built with **React**, featuring **Context API** for global state management and **LocalStorage** for persistent data storage.  
+Unlike basic todo apps, your tasks remain saved even after refreshing or closing the browser. 🚀  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features  
+- 📝 Add, edit, delete tasks  
+- ✅ Mark tasks as completed/pending  
+- 💾 Persistent storage using **localStorage**  
+- 🌍 Global state management with **Context API**  
+- 🎨 Clean and responsive UI (works on desktop & mobile)  
+- 🔍 Filter tasks (completed / pending) *(optional if you added)*  
+- ☀️ Dark/Light mode *(optional if you added)*  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack  
+- **React** (Vite) ⚡  
+- **Context API** (for state management)  
+- **LocalStorage** (for persistence)  
+- **CSS** for styling  
+
+---
+
+## 📂 Project Setup  
+
+Clone the repository:  
+```bash
+git clone https://github.com/AyushKumar2555/persisto-todo.git
+
+Navigate to project folder:
+
+cd persisto-todo
+
+
+Install dependencies:
+
+npm install
+
+
+Start the development server:
+npm run dev
+
+
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/32b3e2d3-c048-4732-ba35-13f9354bf2d1" />
+
+Home Page
+
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/66ec77ea-14bd-4305-8d6c-e8b4383ea75a" />
+
+Add Todo
+
+(Add your own screenshots in a screenshots folder and update the paths above)
+
+🚀 Deployment
+
+This app can be deployed easily on:
+
+[Vercel](https://persisto-todo.vercel.app/)
+
+🤝 Contributing
+
+Contributions are welcome!
+If you'd like to add new features or fix bugs, fork the repo and submit a PR.
+
+📜 License
+
+This project is licensed under the MIT License.
+
+👨‍💻 Author
+
+Ayush Kumar
+
+GitHub: @AyushKumar2555
+
+LinkedIn: https://www.linkedin.com/in/ayush-kumar-2b5064228/
