@@ -52,7 +52,7 @@ Home Page
 
 Add Todo
 
-(Add your own screenshots in a screenshots folder and update the paths above)
+
 
 🚀 Deployment
 
